@@ -43,15 +43,6 @@ Automated the full lifecycle of infrastructure management (Plan ➡️ Apply ➡
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olim4C&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Camilo's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olim4C&layout=compact&theme=tokyonight&hide=html,css" alt="Camilo's Top Languages" height="180px"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 Are you looking to discuss decoupled cloud architectures, FinOps, Kubernetes scaling, or end-to-end automation? Let's talk!
 
